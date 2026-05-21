@@ -3,6 +3,7 @@ slug: hbc-jacobys-burger-gut-buster
 title: 해방촌 맛집 자코비버거 내장 파괴 버거 후기
 description: 미국 다이닝 감성이 가득하고 내장 파괴 버거로 유명한 자코비버거
 category: 일상
+coverImage: https://static.luxtud.io/images/hbc-jacobys-burger-gut-buster/IMG_1959.JPG
 date: 2026-05-21
 updatedAt:
 published: true

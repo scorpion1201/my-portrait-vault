@@ -3,6 +3,7 @@ slug: baekdudaegan-01-jungsanri-maeyo-village
 title: 백두대간 북진 15-1 (중산리-매요마을)
 description: 지리에서 설악까지 약 735km 15구간 중 1구간 중산리에서 매요마을 산행기
 category: 등산
+coverImage: https://static.luxtud.io/images/baekdudaegan/01/IMG_1467.JPG
 date: 2026-05-09
 updatedAt: 2026-05-19
 published: true
