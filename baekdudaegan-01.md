@@ -18,7 +18,7 @@ published: true
 * 거리: 약 67km
 * 시간: 30시간 (휴식시간 포함)
 
-[종주꿈나무 백두대간 북진 15-1 (중산리-매요마을)](https://static.luxtud.io/courses/baekdudaegan/01/jungsanri-maeyo-village.gpx)
+!gpx[종주꿈나무 백두대간 북진 15-1 (중산리-매요마을)](https://static.luxtud.io/courses/baekdudaegan/01/jungsanri-maeyo-village.gpx)
 
 ![](https://static.luxtud.io/images/baekdudaegan/01/IMG_1415.JPG)
 
