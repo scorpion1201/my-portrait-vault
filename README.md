@@ -46,6 +46,30 @@ published: false
 다음 문단 내용...
 ```
 
+### 사진 묶음 삽입
+
+슬라이드형은 터치 디스플레이에서 좌우 스와이프로 넘겨 볼 수 있습니다.
+
+```markdown
+<!-- image-group:slide -->
+![첫 번째 사진](https://static.luxtud.io/images/example/photo-1.jpg)
+![두 번째 사진](https://static.luxtud.io/images/example/photo-2.jpg)
+![세 번째 사진](https://static.luxtud.io/images/example/photo-3.jpg)
+<!-- /image-group -->
+*사진 묶음 아래에 표시될 캡션 문구*
+```
+
+맞춤형은 본문 너비 안에서 모든 사진을 한 번에 보여줍니다.
+
+```markdown
+<!-- image-group:fit -->
+![첫 번째 사진](https://static.luxtud.io/images/example/photo-1.jpg)
+![두 번째 사진](https://static.luxtud.io/images/example/photo-2.jpg)
+![세 번째 사진](https://static.luxtud.io/images/example/photo-3.jpg)
+<!-- /image-group -->
+*사진 묶음 아래에 표시될 캡션 문구*
+```
+
 ![사진 설명 텍스트](https://static.luxtud.io/images/example/photo.jpg)
 
 ### GPX 삽입
@@ -53,12 +77,20 @@ published: false
 ```markdown
 산행 기록 내용...
 
-[종주꿈나무 백두대간 북진 15-1 (중산리-매요마을)](https://static.luxtud.io/courses/example/example.gpx)
+!gpx[종주꿈나무 백두대간 북진 15-1 (중산리-매요마을)](https://static.luxtud.io/courses/example/example.gpx)
 
 다음 문단 내용...
 ```
 
-[종주꿈나무 백두대간 북진 15-1 (중산리-매요마을)](https://static.luxtud.io/courses/example/example.gpx)
+!gpx[종주꿈나무 백두대간 북진 15-1 (중산리-매요마을)](https://static.luxtud.io/courses/example/example.gpx)
+
+### GPX 고도 프로필 삽입
+
+```markdown
+!gpx-elevation[](https://static.luxtud.io/courses/example/example.gpx)
+```
+
+!gpx-elevation[](https://static.luxtud.io/courses/example/example.gpx)
 
 ---
 
